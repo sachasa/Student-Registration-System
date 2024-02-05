@@ -1,5 +1,5 @@
 # Student-Registration-System
-# The C# Unosquare Labs Best Practices
+The C# Unosquare Labs Best Practices
 
 Welcome to the C# Best Practices and Style Guides. We provide you some C# standards and tools that we use in our OSS projects.
 
